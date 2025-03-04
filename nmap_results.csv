@@ -1,0 +1,11 @@
+IP Address,Port,Protocol,State,Service
+192.168.121.131,21,tcp,open,ftp
+192.168.121.131,22,tcp,open,ssh
+192.168.121.131,80,tcp,open,http
+192.168.121.131,111,tcp,open,rpcbind
+192.168.121.131,139,tcp,open,netbios-ssn
+192.168.121.131,445,tcp,open,microsoft-ds
+192.168.121.131,631,tcp,open,ipp
+192.168.121.131,3306,tcp,open,mysql
+192.168.121.131,6667,tcp,open,irc
+192.168.121.131,8181,tcp,open,intermapper
